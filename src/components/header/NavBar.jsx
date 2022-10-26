@@ -20,7 +20,7 @@ export const NavBar = () => {
                     Favorite games ❤️ {'5'}
                 </div>
             </div>
-            <div className='loging'>
+            <div className='nav-bar'>
                 <ul>
                     <li>login</li>
                     <li>register</li>
