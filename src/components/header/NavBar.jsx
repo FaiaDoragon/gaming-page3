@@ -3,7 +3,7 @@ import React from 'react'
 export const NavBar = () => {
     return (
         <div id='nav-bar'>
-            <div>
+            <div className='nav-bar'>
                 <ul>
                     <a href=""><li>PS4</li></a>
                     <a href=""><li>PS5</li></a>
@@ -11,16 +11,16 @@ export const NavBar = () => {
                     <a href=""><li>PC</li></a>
                 </ul>
             </div>
-            <div id='search-bar'>
-                <input className='search-bar' placeholder='Buscar Juego' />
-                <button className='search-btn'>
+            <div className='search-bar'>
+                <input placeholder='Buscar Juego' />
+                <button>
                     Buscar
                 </button>
                 <div className='fav-search'>
                     Favorite games ❤️ {'5'}
                 </div>
             </div>
-            <div>
+            <div className='loging'>
                 <ul>
                     <li>login</li>
                     <li>register</li>
