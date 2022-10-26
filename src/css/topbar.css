@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+
+.topBar {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

@@ -1,7 +1,16 @@
 import React from 'react'
+import { NavBar } from './header/NavBar'
+import { TopBar } from './header/TopBar'
+import { Countent } from './boddy/Countent'
+
+import '../css/topbar.css'
 
 export const GamingPage = () => {
   return (
-    <div>GamingPage</div>
+    <>
+    <TopBar />
+    <NavBar />
+    <Countent />
+    </>
   )
 }
