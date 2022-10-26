@@ -1,0 +1,130 @@
+[
+    {
+        "url": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7",
+        "id": 1,
+        "title": "God Of War",
+        "año": 2018,
+        "consola 1": "ps4",
+        "consola 2": "ps5",
+        "consola 3": "pc"
+    },
+    {
+        "url": "https://media.vandal.net/m/39844/spiderman-20184417577_4.jpg",
+        "id": 2,
+        "title": "Spider man",
+        "año": 2018,
+        "consola 1": "ps4",
+        "consola 2": "ps5",
+        "consola 3": "pc"
+    },
+    {
+        "url": "https://media.vandal.net/m/24302/bloodborne-2015412031_1.jpg",
+        "id": 3,
+        "title": "Bloodborne",
+        "año": 2015,
+        "consola 1": "ps4"
+    },
+    {
+        "url": "https://media.vandal.net/m/26118/horizon-zero-dawn-20173114177_1.jpg",
+        "id": 4,
+        "title": "Horizont zero Dawn",
+        "año": 2017,
+        "consola 1": "ps4",
+        "consola 2": "pc"
+    },
+    {
+        "url": "https://media.vandal.net/m/42942/red-dead-redemption-2-20185218474_1.jpg",
+        "id": 5,
+        "title": "Red dead redemption 2",
+        "año": 2018,
+        "consola 1": "ps4",
+        "consola 2": "xbox one",
+        "consola 3": "pc"
+    },
+    {
+        "url": "https://media.vandal.net/m/70008/dragon-ball-z-kakarot-20201311445449_1.jpg",
+        "id": 6,
+        "title": "Dragon Ball Z: Kakarot",
+        "año": 2020,
+        "consola 1": "ps4",
+        "consola 2": "xbox one",
+        "consola 3": "ps5",
+        "consola 4": "xbox series X|S",
+        "consola 5": "PC",
+        "consola 6": "Stadia",
+        "consola 7": "Nintendo Switch"
+    },
+    {
+        "url": "https://media.vandal.net/m/31236/uncharted-the-nathan-drake-collection-20156415302_2.jpg",
+        "id": 7,
+        "title": "Uncharted the nathan drake collection",
+        "año": 2015,
+        "consola 1": "ps4"
+    },
+    {
+        "url": "https://media.vandal.net/m/30112/god-of-war-iii-remasterizado-2015731270_1.jpg",
+        "id": 8,
+        "title": "God Of War III: remasterizado",
+        "año": 2010,
+        "consola 1": "ps3",
+        "consola 2": "ps4"
+    },
+    {
+        "url": "https://exoplayzone.com/wp-content/uploads/2021/09/mafia-definitive-edition.jpg",
+        "id": 9,
+        "title": "Mafia Definitive Edition",
+        "año": 2020,
+        "consola 1": "ps4",
+        "consola 2": "xbox one",
+        "consola 3": "pc"
+    },
+    {
+        "url": "https://mixcreeping.files.wordpress.com/2020/10/tlou2cover.jpg",
+        "id": 10,
+        "title": "The las of Us Part II",
+        "año": 2020,
+        "consola 1": "ps4"
+    },
+    {
+        "url": "https://m.media-amazon.com/images/I/81ZRj39hdcL._AC_SL1500_.jpg",
+        "id": 11,
+        "title": "Fifa 22",
+        "año": 2021,
+        "consola 1": "ps4",
+        "consola 2": "xbox one",
+        "consola 3": "ps5",
+        "consola 4": "xbox series X|S",
+        "consola 5": "PC",
+        "consola 6": "Stadia",
+        "consola 7": "Nintendo Switch"
+    },
+    {
+        "url": "https://faststoreperu.com/wp-content/uploads/2021/05/ultimate-1.jpg",
+        "id": 12,
+        "title": "Mortal Kombat 11 Ultimate",
+        "año": 2019,
+        "consola 1": "ps4",
+        "consola 2": "xbox one",
+        "consola 3": "ps5",
+        "consola 4": "xbox series X|S",
+        "consola 5": "PC",
+        "consola 6": "Stadia",
+        "consola 7": "Nintendo Switch"
+    },
+    {
+        "url": "https://cdn.shopify.com/s/files/1/0625/2829/1030/products/spiderman-ps5_3.jpg?v=1642288929",
+        "id": 13,
+        "title": "Spider man Myles Morales",
+        "año": 2020,
+        "consola 1": "ps4",
+        "consola 2": "ps5",
+        "consola 3": "pc"
+    },
+    {
+        "url": "https://media.vandal.net/m/86448/demons-souls-remake-20209173315239_1.jpg",
+        "id": 14,
+        "title": "Demon's Souls",
+        "año": 2020,
+        "consola 1": "ps5"
+    }
+]
